@@ -15,53 +15,6 @@ Pre-final year Computer Science student at VIT Bhopal, passionate about building
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 SafeRoute AI  
-A road safety system that prioritizes safer routes using risk-based optimization.  
-Built using OSMnx, GeoPandas, and ML techniques.
-
----
-
-### 🔹 Cura-Foresight  
-Telemedicine platform for remote consultation and patient management.  
-Stack: React, Node.js, Express, MongoDB  
-
----
-
-### 🔹 Helmet Detection System  
-Computer vision project detecting helmet compliance using YOLOv8 and OpenCV.  
-
----
-
-### 🔹 FairChance  
-Subscription-based platform with admin dashboard and backend APIs.  
-Stack: React, Node.js, Supabase  
-
----
-
-### 🔹 Rasa Data Science Chatbot  
-NLP-based chatbot using Rasa for answering ML and DS queries.  
-
----
-
-### 🔹 Magic Mountains  
-Travel and hiking platform built using WordPress with itinerary features.  
-
----
-
-### 🔹 BODMAS Game  
-Interactive math learning game using JavaScript.  
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidit.23bai10196@vitbhopal.ac.in)
-
----
-
 ## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
