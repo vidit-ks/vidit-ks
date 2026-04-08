@@ -1,6 +1,6 @@
-# 🚀 Vidit Kumar Singh
+# Vidit Kumar Singh
 
-### 👨‍💻 Full Stack Developer | 🧠 AI/ML Enthusiast  
+### Full Stack Developer | AI/ML Enthusiast  
 
 Pre-final year Computer Science student at VIT Bhopal, passionate about building scalable applications and intelligent systems. I enjoy solving real-world problems using backend development, machine learning, and computer vision.
 
@@ -38,20 +38,6 @@ Pre-final year Computer Science student at VIT Bhopal, passionate about building
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vidit-ks&theme=radical&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vidit-ks&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=vidit-ks&theme=radical)
 
 ---
 
