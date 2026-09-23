@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | AI/ML Enthusiast  
 
-Pre-final year Computer Science student at VIT Bhopal, passionate about building scalable applications and intelligent systems. I enjoy solving real-world problems using backend development, machine learning, and computer vision.
+Final year Computer Science student at VIT Bhopal, passionate about building scalable applications and intelligent systems. I enjoy solving real-world problems using backend development, machine learning, and computer vision.
 
 ---
 
